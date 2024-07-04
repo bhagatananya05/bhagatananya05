@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ananya Bhagat
-- 👀 I’m interested in Problem-Solving, Web Design and Development
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 👀 I’m interested in Problem-Solving, Web Design, Machine Learning and Deep leaning  Domains.
+- ✨Currently I'm learning and exploring the NLP, LLMs and Gen AI.
+
 
 <!---
 bhagatananya05/bhagatananya05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
